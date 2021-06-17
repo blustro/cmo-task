@@ -1,0 +1,24 @@
+{
+  "forms": [
+    {
+      "name": "Sales or Product Enquiries",
+      "options": ["General enquiry", "Quote request"],
+      "contact": ["Email", "Telephone", "No contact"]
+    },
+    {
+      "name": "Customer Service Enquiries",
+      "options": [
+        "I have a damaged item",
+        "I have a delivery problem",
+        "Refund request",
+        "I have a different query"
+      ],
+      "contact": ["Email", "Telephone", "No contact"]
+    },
+    {
+      "name": "Feedback and Complaints",
+      "options": ["I have feedback", "I have a complaint"],
+      "contact": ["Email", "Telephone", "No contact"]
+    }
+  ]
+}
